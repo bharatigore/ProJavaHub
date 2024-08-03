@@ -12,7 +12,7 @@ A simple chat messenger application implemented in Java with graphical user inte
 
                     cd Chat_Messanger
                     cd src
-3.Compile the Code:
+3.Compile the Code:<br>
                     javac ServerGUI.java
                     javac ClientGUI.java
 <br>
