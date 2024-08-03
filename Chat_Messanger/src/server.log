@@ -1,0 +1,22 @@
+Aug 03, 2024 11:28:52 AM ServerGUI setupConnection
+INFO: Client connected
+Aug 03, 2024 11:29:21 AM ServerGUI receiveMessages
+INFO: Received message: Hi..
+Aug 03, 2024 11:29:26 AM ServerGUI sendMessage
+INFO: Sent message: Hello
+Aug 03, 2024 11:29:37 AM ServerGUI receiveMessages
+INFO: Received message: How are you
+Aug 03, 2024 11:29:43 AM ServerGUI sendMessage
+INFO: Sent message:  I am fine 
+Aug 03, 2024 11:29:55 AM ServerGUI sendMessage
+INFO: Sent message:  what's about you
+Aug 03, 2024 11:30:05 AM ServerGUI receiveMessages
+INFO: Received message:  I am great 
+Aug 03, 2024 11:30:11 AM ServerGUI sendMessage
+INFO: Sent message: oohh nice
+Aug 03, 2024 11:30:18 AM ServerGUI receiveMessages
+INFO: Received message: Bye
+Aug 03, 2024 11:30:21 AM ServerGUI sendMessage
+INFO: Sent message: Bye
+Aug 03, 2024 11:31:21 AM ServerGUI receiveMessages
+WARNING: Client disconnected: Connection reset
