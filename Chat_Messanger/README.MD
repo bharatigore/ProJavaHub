@@ -13,12 +13,9 @@ A simple chat messenger application implemented in Java with graphical user inte
                     cd Chat_Messanger
                     cd src
 3.Compile the Code:
-
-Open a terminal and navigate to the directory containing the Java files.
-
-Compile both ServerGUI.java and ClientGUI.java using javac:<br>
-                      javac ServerGUI.java
-                      javac ClientGUI.java
+                    javac ServerGUI.java
+                    javac ClientGUI.java
+<br>
 4.Run the Server:
 
 Start the server by running the compiled ServerGUI class:
